@@ -1,0 +1,20 @@
+# Здесь можно установить всего 4 вида режима:
+#   1. SOLO
+#   2. TEAM
+#   3. CRAZY
+#   4. RANKED
+mode: SOLO
+worlds:
+  - 'sw_1:Purvus'
+  - 'sw_2:swamp'
+  - 'sw_3:Orion'
+  - 'sw_4:Greenrow'
+  - 'sw_5:Texas'
+  - 'sw_6:Toxic'
+  - 'sw_8:Uplands'
+  - 'sw_9:Shtorm Grad'
+  - 'sw_10:Hellish place'
+  - 'sw_11:Milpa'
+  - 'sw_12:Izbushuka'
+wait-lobby-spawn: 'WaitLobby, 0.5, 50, 0.5, 90, 0'
+map-radius: 150

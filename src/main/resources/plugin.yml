@@ -1,0 +1,10 @@
+name: PlazmixSkywars
+main: net.plazmix.skywars.PlazmixSkywarsPlugin
+version: ${project.version}
+description: ${project.description}
+website: ${project.url}
+
+author: ItzStonlex
+
+depend:
+  - PlazmixAPI
